@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+lisearch
 
-## Getting Started
+## チーム名
 
-First, run the development server:
+素人質問で恐縮ですが
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## メンバー
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+・りくと ([trktac](https://github.com/trktac))
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+・かめ ([kame432](https://github.com/kame432))
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+・なおき([blue031415](https://github.com/blue031415))
 
-## Learn More
+・こうすけ([c0s361](https://github.com/c0s361))
 
-To learn more about Next.js, take a look at the following resources:
+・かずは([manyoukazu](https://github.com/manyoukazu))
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+・てとら([tetracontinental](https://github.com/tetracontinental))
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## エレベーターピッチ
 
-## Deploy on Vercel
+ゼミの​ときに​留学生の​英語発表を​聞き取れるようになりたい​CVlabの​日本人学生向けの、lisearchというプロダクトは、自分の研究分野に関連する英語リスニングトレーニングwebアプリです。これは、専門英語が混じった発話内容に関してスピードや訛りを調整してリスニング練習することができ、既存の英語リスニング教材やAI、Youtubeの動画音声とは違って、論文ベースとして自分が専門とする分野に特化したリスニング問題を作成できる機能が備わっています。
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## プロダクトのURL
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[lisearch](https://lisearch.love-linux-7701.workers.dev/)
