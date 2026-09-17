@@ -32,7 +32,7 @@ export default function Home() {
 
           <div> 
             <h2 > 関連研究</h2>
-            <p style={{ color: "gray"}}>未登録</p>
+            <p style={{ color: "gray"}}>話していません。</p>
           </div>
 
           <div> 
