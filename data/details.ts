@@ -9,15 +9,24 @@ export const details: Detail[] = [
         slug: 'background',
         title: '背景',
         text: 'Hello world!'
-    },
-    {
+    }, {
         slug: 'objective',
         title: '目的',
         text: 'Hello world!'
 
     }, {
+        slug: 'related-works',
+        title: '関連研究',
+        text: 'Hello world!'
+
+    }, {
         slug: 'methods',
         title: '手法',
+        text: 'Hello world!'
+
+    }, {
+        slug: 'experiments',
+        title: '実験',
         text: 'Hello world!'
 
     }, {
