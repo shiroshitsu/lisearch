@@ -23,12 +23,6 @@ export default function Header() {
             preload
           />
         </Link>
-        <div className="hidden h-8 w-px bg-zinc-200 sm:block dark:bg-zinc-700" />
-        <p className="hidden text-sm leading-snug text-zinc-500 sm:block dark:text-zinc-400">
-          英語の研究発表を、
-          <br />
-          自分の専門分野で聞き取れるように。
-        </p>
       </div>
     </header>
   );
