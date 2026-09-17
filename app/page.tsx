@@ -46,9 +46,9 @@ export default function Home() {
           </div>
 
           <div className="w-full max-w-xl border border-gray-300 rounded-lg p-4">
-            <Link href="/details/related-works">
-              <h2 className="text-[#D38006] font-bold text-xl mb-3">関連研究</h2>
-            </Link>
+            {/* <Link href="/details/related-works"> */}
+            <h2 className="text-[#D38006] font-bold text-xl mb-3">関連研究</h2>
+            {/* </Link> */}
             <p className="text-gray-500">話していません。</p>
           </div>
 
