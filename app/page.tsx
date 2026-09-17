@@ -15,13 +15,6 @@ export default function Home() {
           priority
         />
         <div className="flex w-full flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            留学生の英語のゼミ発表を、事前のスライド共有がなくても発表中に理解するためのアプリです。
-          </p>
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            lisearch
-          </h1>
-
           <div className="flex w-full max-w-xl items-center gap-3">
             <p className="flex-1 text-lg leading-8 text-zinc-600 dark:text-zinc-400">
               留学生の英語のゼミ発表を、事前のスライド共有が
