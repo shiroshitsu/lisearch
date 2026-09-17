@@ -73,7 +73,7 @@ export default function RecordButton() {
           recording ? "text-red-500" : "text-zinc-600 dark:text-zinc-400"
         }`}
       >
-        {recording ? "録音中…（タップで停止）" : "録音開始"}
+        {recording ? "録音中…" : "録音開始"}
       </p>
     </div>
   );
