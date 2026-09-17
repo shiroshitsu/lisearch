@@ -34,7 +34,7 @@ export const details: Detail[] = [
         title: '結論',
         text: 'Hello world!'
     }, {
-        slug: 'summury',
+        slug: 'summary',
         title: '要約',
         text: 'Hello world!'
     }
