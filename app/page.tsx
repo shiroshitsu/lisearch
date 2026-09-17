@@ -17,7 +17,7 @@ export default function Home() {
             lisearch
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            事前に​スライド共有が​ない、​研究を​詳しく​説明する​ゼミで​留学生の​英語発表を​発表中に​理解したい
+            ​留学生の​英語のゼミ発表を、事前のスライド共有が​なくても​発表中に​理解するためのアプリです。
           </p>
 
           <div> 
