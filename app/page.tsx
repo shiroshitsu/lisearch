@@ -18,12 +18,16 @@ export default function Home() {
             lisearch
           </h1>
 
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            留学生の英語のゼミ発表を、事前のスライド共有がなくても発表中に理解するためのアプリです。
-          </p>
+          <div className="flex w-full max-w-xl items-center gap-3">
+            <p className="flex-1 text-lg leading-8 text-zinc-600 dark:text-zinc-400">
+              留学生の英語のゼミ発表を、事前のスライド共有が
+              <span className="whitespace-nowrap">なくても</span>
+              発表中に理解するためのアプリです。
+            </p>
 
-          <div className="flex w-full justify-center py-4">
-            <RecordButton />
+            <div className="shrink-0">
+              <RecordButton />
+            </div>
           </div>
 
           <div className="w-full max-w-xl border border-gray-300 rounded-lg p-4">
