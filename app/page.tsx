@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Link from "next/link";
+import { details } from '@/data/details'
 
 export default function Home() {
   return (
@@ -17,9 +19,19 @@ export default function Home() {
             lisearch
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            英語研究発表を​聞き取れるようになりたい​日本人学生向けの、​リスニングアプリです。​
+            英語研究発表を​聞き取れるようになりたい​日本人学生向けの、​リスニングアプリです。
           </p>
         </div>
+
+        <ul>
+          {details.map((detail) => (
+            <li key={detail.slug}>
+              <Link href={`/details/${detail.slug}`}>
+                {detail.title}
+              </Link>
+            </li>
+          ))}
+        </ul>
       </main>
     </div>
   );
