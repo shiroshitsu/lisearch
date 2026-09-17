@@ -1,9 +1,10 @@
 import Image from "next/image";
+import RecordButton from "./components/RecordButton";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center py-32 px-16 bg-white dark:bg-black sm:items-start">
+    <div className="flex flex-col flex-1 items-center justify-center font-sans">
+      <main className="flex flex-1 w-full max-w-3xl flex-col items-center py-32 px-16 sm:items-start">
         <Image
           className="dark:invert w-[100px]"
           src="/logo.png"
@@ -20,6 +21,10 @@ export default function Home() {
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             留学生の英語のゼミ発表を、事前のスライド共有がなくても発表中に理解するためのアプリです。
           </p>
+
+          <div className="flex w-full justify-center py-4">
+            <RecordButton />
+          </div>
 
           <div className="w-full max-w-xl border border-gray-300 rounded-lg p-4">
             <h2 className="text-[#D38006] font-bold text-xl mb-3">背景</h2>
