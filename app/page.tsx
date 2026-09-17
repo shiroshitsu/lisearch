@@ -8,8 +8,8 @@ export default function Home() {
           className="dark:invert w-[100px]"
           src="/logo.png"
           alt="lisearch logo"
-          width={100}
-          height={100}
+          width={996}
+          height={302}
           priority
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
