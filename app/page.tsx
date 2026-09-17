@@ -21,37 +21,37 @@ export default function Home() {
           </p>
 
           <div> 
-            <h2> 背景</h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 背景</h2>
             <p>移動時間は短いほど良いと考えられているが、移動自体に価値がある場合もある。</p>
           </div>
 
           <div> 
-            <h2> 目的</h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 目的</h2>
             <p>移動時間を短くしたいという意向を調べることで、人が移動をどのように捉えているのかを明らかにする。</p>
           </div>
 
           <div> 
-            <h2 > 関連研究</h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 関連研究</h2>
             <p style={{ color: "gray"}}>話していません。</p>
           </div>
 
           <div> 
-            <h2> 手法</h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 手法</h2>
             <p>対象者に1日の移動を振り返ってもらい、移動時間を短縮できる場合にどの移動を短くしたいかを調査する。</p>
           </div>
 
           <div> 
-            <h2> 実験 </h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 実験 </h2>
             <p>移動手段・同行者・仕事の有無などの条件と、移動時間を短くしたいかどうかの関係を分析する。</p>
           </div>
 
           <div> 
-            <h2> 結論</h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 結論</h2>
             <p>移動に対する感じ方は状況によって異なり、特に大人の同行者がいることなどが移動時間を受け入れることに関係している。</p>
           </div>
 
           <div> 
-            <h2> 要約</h2>
+            <h2 className="text-[#D38006] font-bold text-xl"> 要約</h2>
             <p>移動時間は単に短ければよいのではなく、移動中の状況や過ごし方によって、その時間を短くしたいかどうかが変わることを示した研究。</p>
           </div>
         </div>
